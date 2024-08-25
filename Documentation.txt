@@ -1,0 +1,36 @@
+Summary: The chatbot is a basic flask web app that currently is a rule-based chatbot which can answer to a pre-defined set of questions.
+
+Current Questionnaire:
+'what is the total revenue', 
+'what is the total revenue of apple',
+'what is the total revenue apple in 2023',
+'what is the total revenue apple in 2022',
+'what is the total revenue apple in 2021',
+'what is the total profit of apple',
+'what is the total profit of apple in 2023',
+'what is the total profit of apple in 2022',
+'what is the total profit of apple in 2021',
+'what is the total revenue', 
+'what is the total revenue of Tesla',
+'what is the total revenue Tesla in 2023',
+'what is the total revenue Tesla in 2022',
+'what is the total revenue Tesla in 2021',
+'what is the total profit of Tesla',
+'what is the total profit of Tesla in 2023',
+'what is the total profit of Tesla in 2022',
+'what is the total profit of Tesla in 2021',
+'what is the total revenue', 
+'what is the total revenue of Microsoft',
+'what is the total revenue Microsoft in 2023',
+'what is the total revenue Microsoft in 2022',
+'what is the total revenue Microsoft in 2021',
+'what is the total profit of Microsoft',
+'what is the total profit of Microsoft in 2023',
+'what is the total profit of Microsoft in 2022',
+'what is the total profit of Microsoft in 2021',
+
+Limitations: 
+1) It can't answer if there are any special characters, spelling mistakes or additional words.
+2) It can't answer any complex questions.
+3) It doesn't store the state of the conversation.
+4) It can't dynamically update data as time passes.
